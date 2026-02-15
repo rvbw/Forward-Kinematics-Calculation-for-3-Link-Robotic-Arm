@@ -1,6 +1,6 @@
 # Forward Kinematics Calculation for 3-Link Robotic Arm
 
-![Kinematics Calculation](images/assembly.png)
+![Kinematics Calculation](images/de834446-c748-494f-88d3-957f1524ca3e.jfif)
 
 ## Overview
 This project focuses on applying **Forward Kinematics equations** to a 3-link planar robotic arm.  
