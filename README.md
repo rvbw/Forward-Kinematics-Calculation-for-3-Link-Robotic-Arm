@@ -34,10 +34,7 @@ y = L1 sin(θ1)
   + L2 sin(θ1 + θ2)  
   + L3 sin(θ1 + θ2 + θ3)
 
-## 📊 Final Result
+## Final Result
 End Effector Position:
 
 (32.24 , 23.61)
-
-## 👤 Author
-Kinematics calculation completed as part of robotics learning and training.
